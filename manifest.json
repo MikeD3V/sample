@@ -1,0 +1,6 @@
+{
+    "name":"mike",
+    "start_url":"/sample-app/",
+    "display":"standalone",
+    "orientation":"portrait"
+}
